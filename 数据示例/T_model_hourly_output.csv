@@ -1,0 +1,4 @@
+swap_station_id,swap_station_name,city_company,province,hour_index,electricity_fee,service_fee_before,adjust_service_fee,total_fee,fee_change,optimized_volume,optimized_revenue,baseline_volume,baseline_revenue,updated_time,datetime,model_version
+S0001,站点1,R01,X01,22,0.45,0.45,0.45,0.45,0.45,142.5,41.2,142.5,41.2,20260102,20260116,volume
+S0002,站点2,R02,X02,13,0.55,0.55,0.55,0.55,0.55,0.0,0.0,0.0,0.0,20260103,20260201,revenue
+S0003,站点3,R03,X03,4,0.6,0.6,0.6,0.6,0.6,560.2,168.4,560.2,168.4,20260104,20260216,volume

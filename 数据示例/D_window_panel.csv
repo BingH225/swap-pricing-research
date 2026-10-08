@@ -1,0 +1,4 @@
+sid,hour,bd,city_company,pre_days,post_days,pre_kwh,post_kwh,pre_orders,post_orders,pre_rev,post_rev,fee_b,fee_a,ele_b,ele_a,fee_pre_mean,fee_post_mean,ele_pre_mean,ele_post_mean,algo_any,algo_post_share,disc_share,pre_other_chg,post_other_chg
+S0001,22,20260116,R01,14,14,420.0,486.0,9,11,160.0,166.0,0.5,0.45,0.6,0.6,0.5,0.45,0.6,0.6,0,0.0,0.0,0,0
+S0002,13,20260201,R02,14,14,610.5,598.0,13,13,255.0,261.0,0.55,0.58,0.7,0.66,0.55,0.58,0.7,0.66,1,1.0,0.0,0,0
+S0003,4,20260216,R03,14,14,35.0,31.5,1,1,12.8,11.5,0.48,0.48,0.4,0.4,0.48,0.48,0.4,0.4,0,0.0,0.0,0,1

@@ -1,0 +1,4 @@
+device_id,device_name,dimension_tag,dimension_name,dimension_value,dw_etl_time,datetime
+S0001,站点1,示例,示例,0.1,2026-01-02 10:00:00,20260116
+S0002,站点2,示例,示例,0.2,2026-01-03 10:00:00,20260201
+S0003,站点3,示例,示例,0.3,2026-01-04 10:00:00,20260216

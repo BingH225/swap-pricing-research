@@ -1,0 +1,4 @@
+swap_station_id,swap_station_name,city_code,is_intercity_swap,is_highway_swap,hour_index,time_index,electricity_fee,service_fee,service_discount,service_price_pg,algorithm_sync,algorithm_price_pg,datetime
+S0001,站点1,X01,1,1,22,44,0.45,0.45,,0.45,true,0.45,20260116
+S0002,站点2,X02,0,0,13,26,0.55,0.55,0.8,0.55,false,0.55,20260201
+S0003,站点3,X03,1,1,4,8,0.6,0.6,,0.6,true,0.6,20260216
